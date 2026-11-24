@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+
+# Generated reports and local test artifacts
+report.json
+report.pdf
+tests/_test_report.json
+tests/_test_report.pdf
+
+# Operating systems and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
