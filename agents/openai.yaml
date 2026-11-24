@@ -1,0 +1,13 @@
+interface:
+  display_name: Evidence-Based Research & Reports
+  short_description: Evidence-based applied research and source-linked PDF reports
+  default_prompt: "Use $evidence-based-research-reports to investigate the requested topic, verify the evidence, and prepare a concise PDF report in the language of my request."
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true

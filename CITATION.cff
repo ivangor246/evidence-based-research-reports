@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this skill in your work, please cite it as follows."
+title: "Evidence-Based Research & Reports"
+type: software
+authors:
+  - family-names: Gorchakov
+    given-names: Ivan
+version: 1.0.0
+date-released: 2026-11-24
+url: "https://github.com/ivangor246/evidence-based-research-reports"
+license: "Apache-2.0 OR MIT"
